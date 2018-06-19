@@ -1,1 +1,132 @@
-/* Los estilos de tu proyecto */
+
+/* SECCION MENU */
+.nav a {
+    color:black;
+}
+.hamburguer {
+    font-size: 30px;
+    margin-top: 25px;
+}
+
+/*SECCION FOTO TAXI */
+
+.taxi-photo {
+    background: url(../assets/images/taxides.png);
+    width: 100%;
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.logo-blanco {
+    max-width: 100%;
+}
+
+.text-color {
+    color: white;
+}
+
+.text-down {
+    margin-top: 10%;
+}
+
+.hr {
+    background-color: white;
+}
+
+/*SECCION IPHONE*/
+
+.color {
+    background: #FFC300;
+}
+
+
+.iphone {
+    max-width: 100%;
+    padding: 40px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 1px solid white;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.iphone-text {
+    padding: 60px;
+    border: 1px solid white;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+/*SECCION CONDUCTOR*/
+
+.conductor {
+    background: url(../assets/images/conduce.jpg);
+    max-width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.conText {
+    background: rgba(0,0,0,0.4);
+    height: 350px;
+    color: white;
+}
+
+.conText a {
+    padding: .5em;
+    background: #FFC300;
+    color: white;
+}
+
+.text {
+    margin-top: 80px;
+}
+
+/*SECCION MAPA*/
+
+.form-control {
+    outline: 1px solid white;
+}
+
+.mapa {
+    width: 100%;
+}
+
+/*SECCION FOOTER*/
+
+footer {
+    background: #273746;
+}
+
+.logo-footer {
+    padding: 2em;
+}
+
+footer hr {
+    background-color: white;
+}
+
+
+.text-app {
+    margin-top: 50px;
+    color: #fff;
+}
+
+.text-version {
+    margin-top: 30px;
+}
+
+.items i {
+    color: white;
+    margin: 1em;
+}
+
+app {
+    width: 100%;
+}
+
+
